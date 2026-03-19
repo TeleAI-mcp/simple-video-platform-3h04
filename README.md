@@ -1,2 +1,3 @@
-# simple-video-platform-3h04
-Automated issue comment bot repository
+# Simple Video Platform 3H04
+
+Automated issue comment bot repository.
